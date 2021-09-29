@@ -1,0 +1,18 @@
+{
+  "name": "utools-plugin",
+  "version": "0.0.1",
+  "description": "tai uploader",
+  "main": "preload.js",
+  "author": "Akashiya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "fetch": "^1.1.0",
+    "formdata": "^0.10.4",
+    "js-sha1": "^0.6.0",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "electron": "^14.0.1"
+  }
+}
